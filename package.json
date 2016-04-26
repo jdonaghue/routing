@@ -13,15 +13,15 @@
 	},
 	"devDependencies": {
 		"dts-generator": "1.4.1",
-		"grunt": "0.4.5",
-		"grunt-contrib-clean": "0.6.0",
-		"grunt-contrib-copy": "0.8.0",
-		"grunt-contrib-watch": "0.6.1",
+		"grunt": "1.0.1",
+		"grunt-contrib-clean": "git://github.com/gruntjs/grunt-contrib-clean.git#985cc7f9b7fd51cf467fe557aee2dceadf268752",
+		"grunt-contrib-copy": "1.0.0",
+		"grunt-contrib-watch": "1.0.0",
 		"grunt-text-replace": "0.4.0",
-		"grunt-ts": "3.0.0",
-		"grunt-tslint": "2.0.0",
-		"tslint": "2.1.1",
-		"intern": "2.2.2",
-		"typescript": "Arnavion/typescript-github#2015-05-07-e1d05150f6acef05452772192a4abdfc7eb671eb"
+		"grunt-ts": "5.5.0-beta.2",
+		"grunt-tslint": "git://github.com/palantir/grunt-tslint.git#438b1a6bd7e48e172b429d1c41ded861ee49f741",
+		"intern": "3.0.6",
+		"tslint": "3.8.1",
+		"typescript": "1.8.10"
 	}
 }
